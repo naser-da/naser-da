@@ -11,6 +11,6 @@ Junior Backend Developer.<br>Tech Author/Translator.<br>Currently working on eCo
 ![](https://github-readme-stats.vercel.app/api?username=naser-da&theme=prussian&hide_border=true&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=naser-da&theme=prussian&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=naser-da&theme=prussian&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
-
+[![wakatime](https://wakatime.com/badge/user/a726637c-ecf8-461c-b21c-eb4cbcda8678.svg)](https://wakatime.com/@a726637c-ecf8-461c-b21c-eb4cbcda8678)
 ---
 [![](https://visitcount.itsvg.in/api?id=naser-da&icon=0&color=1)](https://visitcount.itsvg.in)
