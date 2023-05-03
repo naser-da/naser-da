@@ -1,5 +1,5 @@
 # 💫 About Me:
-Junior Backend Developer.<br>Tech Author/Translator.<br>Currently working on eCourses.<br>
+Software Engineer | Web Developer.<br>Tech Author/Translator.<br>Currently working on eCourses.<br>
 
 
 ## 🌐 Socials:
